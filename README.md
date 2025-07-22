@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanuj Nautiyal
 
-<!--
-**tanujnautiyal/tanujnautiyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech student at NITK Surathkal  
+🚀 Aspiring Software Developer | ML Enthusiast | Open Source Learner  
+📌 Interested in AI, Web Dev
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- Python, C++, JavaScript
+- Machine Learning, Deep Learning, scikit-learn, TensorFlow
+- Web: HTML, CSS, Flask, Streamlit
+- Tools: Git, VSCode, Colab, Linux
+
+---
+
+## 🧠 Projects
+
+### 🚗 Self-Driving Car Simulator  
+> Built a behavioral cloning model using CNNs to drive in Udacity's simulator  
+> [GitHub Repo](https://github.com/tanujnautiyal/self_driving_car)
+
+### 📊 Salary Prediction App  
+> ML web app to predict salaries using XGBoost and Streamlit  
+> [Live Demo](https://your-streamlit-app-link)
+
+---
+
+## 📫 Let's Connect!
+
+- Email: tanujnautiyal183@gmail.com
+- GitHub: [github.com/tanujnautiyal](https://github.com/tanujnautiyal)
+
