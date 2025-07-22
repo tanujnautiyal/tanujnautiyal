@@ -22,7 +22,7 @@
 
 ### 📊 Salary Prediction App  
 > ML web app to predict salaries using XGBoost and Streamlit  
-> [Live Demo](https://your-streamlit-app-link)
+> [Live Demo](https://salary-prediction-app-ml.streamlit.app/)
 
 ---
 
